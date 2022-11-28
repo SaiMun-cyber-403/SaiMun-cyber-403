@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/SaiMon-cyber-403/SaiMon-cyber-403/blob/main/Wave.gif" height="55px" width="55px">, I'm MD SAIMUN</h1>
+<h1 align="center">Hi <img src="https://github.com/SaiMun-cyber-403/SaiMun-cyber-403/blob/main/Wave.gif" height="55px" width="55px">, I'm MD SAIMUN</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
@@ -20,7 +20,7 @@ Programmer | Content Creator | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="Md SaiMon| YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="Md SaiMon| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
@@ -46,7 +46,7 @@ Programmer | Content Creator | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=saimun-cyber-403.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=saiMun-cyber-403&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/SaiMon-cyber-403/github-readme-activity-graph)
+[![SaiMun's github activity graph](https://activity-graph.herokuapp.com/graph?username=saiMun-cyber-403&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/SaiMon-cyber-403/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,6 +56,6 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaiMon-cyber-403&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[facebook]: https://facebook.com/MahbubDev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[telegram]: https://t.me/TechHelpBangladesh
+[facebook]: https://facebook.com/saimonk189
+[youtube]: https://www.youtube.com/@saimun.cyber.403
+[telegram]: https://t.me/saimun-cyber-403
